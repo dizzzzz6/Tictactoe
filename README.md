@@ -1,1 +1,3 @@
 # Tictactoe
+
+Basic tictactoe game
